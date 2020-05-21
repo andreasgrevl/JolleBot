@@ -1,0 +1,12 @@
+[tool]
+[tool.poetry]
+authors = ["Your Name <you@example.com>"]
+name = "root"
+version = "0.0.0"
+[tool.poetry.dependencies]
+
+python = "^3.7"
+aiohttp = "^3.6"
+discord = "^1.0"
+flask = "^1.1"
+python-dotenv = "^0.13.0"
